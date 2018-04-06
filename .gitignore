@@ -1,0 +1,7 @@
+*.iml
+target
+node_modules
+**/*.log
+package-lock.json
+.idea
+*.sc
